@@ -5,8 +5,8 @@
 <div>
     <form action="add_user.php" method="post">
         <div>
-            <label for="name">NAME</label>
-            <input type="text" name="name" placeholder="Enter Name" required>
+            <label for="name">FULLNAME</label>
+            <input type="text" name="name" placeholder="Enter Fullname" required>
         </div>
         <div>
             <label for="email">EMAIL</label>
@@ -19,5 +19,3 @@
         <button type="submit" name="add">SUBMIT</button>
     </form>
 </div>
-<br><br><br>
-<a href="index.php">BACK TO HOMEPAGE</a>

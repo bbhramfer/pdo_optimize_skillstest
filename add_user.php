@@ -1,5 +1,5 @@
 <?php
-    //ADDING USER
+    //ADD USER
 
     include_once('dbconfig.php');
     if(isset($_POST['add'])){
