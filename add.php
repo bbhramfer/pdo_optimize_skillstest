@@ -9,22 +9,23 @@
 </div>
 <br><br><br>
 <div>
-    <a href="index.php">RETURN</a>
-</div>
-<div>
     <form action="add_user.php" method="POST">
     <div>
-        <input type="text" placeholder="Enter Name" name="name" required>
         <label for="name">Full Name</label>
+        <input type="text" placeholder="Enter Name" name="name" required>
     </div>
     <div>
-        <input type="text" placeholder="Enter Email" name="email" required>
         <label for="email">Email</label>
+        <input type="text" placeholder="Enter Email" name="email" required>
     </div>
     <div>
-        <input type="text" placeholder="Enter Password" name="password" required>
         <label for="password">Password</label>
+        <input type="text" placeholder="Enter Password" name="password" required>
     </div>
     <button type="submit" name="add">Submit</button>
     </form>
+</div>
+<br><br><br>
+<div>
+    <a href="index.php">RETURN</a>
 </div>
