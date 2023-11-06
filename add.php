@@ -1,6 +1,9 @@
 <?php
     include_once('header.php');
 ?>
+<div>
+    <a href="index.php">BACK</a>
+</div>
 
 <div>
     <form action="add_user.php" method="post">
