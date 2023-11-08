@@ -1,5 +1,5 @@
 <?php
-
+    
     //DATABASE CONFIGURATION
 
     $servername = 'localhost';
